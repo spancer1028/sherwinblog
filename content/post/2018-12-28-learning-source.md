@@ -13,3 +13,6 @@ tags:
 ### PyTorch
 
 - [PyTorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+- [tensorflow](/hands-on-ml-with-sklearn-and-tf.pdf/)
+
+### 電子書資源
