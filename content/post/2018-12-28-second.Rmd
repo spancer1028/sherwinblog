@@ -1,0 +1,13 @@
+---
+title: Second第二發測試
+author: 凱蒂
+date: '2018-12-28'
+slug: second
+categories: []
+tags:
+  - R Markdown
+---
+```{r}
+library(ggplot2)
+```
+
