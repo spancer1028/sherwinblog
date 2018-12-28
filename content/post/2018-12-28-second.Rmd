@@ -10,4 +10,15 @@ tags:
 ```{r}
 library(ggplot2)
 ```
+```{python engine.path="~/anaconda/bin/python.app"}
+import pandas
+a = 1
+b = 2
+c = a+b
+print(c)
+```
+
+
+
+
 
