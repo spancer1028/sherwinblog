@@ -1,0 +1,12 @@
+---
+title: Pytorch學習筆記
+author: yodumini
+date: '2018-12-27'
+slug: pytorch
+categories:
+  - R
+  - Python
+tags:
+  - Pytorch
+  - Deep Learning
+---
