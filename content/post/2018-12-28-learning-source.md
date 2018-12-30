@@ -10,9 +10,7 @@ tags:
 
 # 學習資源分享
 
-### PyTorch
+### 深度學習框架
 
 - [PyTorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
-- [tensorflow](/hands-on-ml-with-sklearn-and-tf.pdf/)
-
-### 電子書資源
+- [Tensorflow](/hands-on-ml-with-sklearn-and-tf.pdf/)
