@@ -1,5 +1,5 @@
 ---
-title: Learning Source
+title: Learning resource
 author: yodumini
 date: '2018-12-28'
 slug: learning-source
