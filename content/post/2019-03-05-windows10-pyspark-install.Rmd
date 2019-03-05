@@ -1,0 +1,13 @@
+---
+title: Windows10環境下的pySpark配置
+author: ''
+date: '2019-03-05'
+slug: windows10-pyspark-install
+categories:
+  - Python
+tags:
+  - pySpark
+---
+
+###前言
+最近在測從influxDB調用大量數據的效率問題，
